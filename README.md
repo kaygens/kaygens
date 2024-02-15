@@ -7,8 +7,8 @@
 <p align="center">
 <br>
 
-<a href="https://x.com/revieexp"><img src="https://img.shields.io/badge/x-%23E4405F.svg?&style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/sai-sumanth-talluri-3b7811141"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://x.com/revieexp" rel="noreferrer noopener" ><img src="https://img.shields.io/badge/x-%23E4405F.svg?&style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>&nbsp;
+</a>&nbsp;
 <a href="mailto:lkay.kts@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
