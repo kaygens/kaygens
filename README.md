@@ -18,11 +18,11 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" />
 
 ### i am a high-school student IT enthusiast!
-- 🔭 currently working on my Portfolio Website :grin:
+- 🔭 currently working on my portfolio
 - 🌱 currently learning DSA and networking
-- 🥅 looking forward to contributing to open source projects <3
-- 💬 ask me about anything, I am happy to help :smile:
-- 📬 you can reach me on [twitter](https://twitter.com/revieexp)] anytime!
+- 🥅 looking forward to contributing to open source projects |>
+- 💬 ask me about anything, I am happy to help <3
+- 📬 you can reach me on [twitter](https://twitter.com/revieexp) anytime!
 
 <br>
 
