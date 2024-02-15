@@ -19,11 +19,10 @@
 
 ### i am a high-school student IT enthusiast!
 - 🔭 currently working on my Portfolio Website :grin:
-- 🌱 currently learning DSA and Networking
-- 👯 looking to collaborate with other Developers :wink:
+- 🌱 currently learning DSA and networking
 - 🥅 looking forward to contributing to open source projects <3
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!](https://twitter.com/revieexp)]
+- 💬 ask me about anything, I am happy to help :smile:
+- 📬 you can reach me on [twitter](https://twitter.com/revieexp)] anytime!
 
 <br>
 
