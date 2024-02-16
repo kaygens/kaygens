@@ -19,7 +19,7 @@
 
 ### i am a high-school student IT enthusiast!
 - 🔭 currently working on my portfolio
-- 🌱 currently learning DSA and networking
+- 🌱 currently learning DSA and network
 - 🥅 looking forward to contributing to open source projects |>
 - 💬 ask me about anything, I am happy to help <3
 - 📬 you can reach me on [twitter](https://twitter.com/revieexp) anytime!
